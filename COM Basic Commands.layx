@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<layout version="1100" vissimVersion="2023.00-07 [260779]">
+	<currentWindowLayouts>
+		<windowLayoutCurrent no="1">
+			<dockAreaPanes>
+				<dockableAreaPane childPaneStyle="1" dockedLocation="1" floating="false" floatingLocationX="-1" floatingLocationY="-1" keyText="" no="1" paneType="AREA" sizeHeight="948" sizeWidth="202" tag="" text="" textTabResolved="" visible="true">
+					<dockChildPanes>
+						<dockableChildPane childPaneStyle="2" flyoutSizeHeight="0" flyoutSizeWidth="0" isDirectAreaChild="true" isSelectedTab="false" keyText="" no="1" paneLayoutNo="0" paneType="GROUP" pinned="false" sizeHeight="630" sizeWidth="202" subType="" tag="" text="" textTabResolved="" type="" visible="true">
+							<dockableChildPanes>
+								<objectRef key="1 1 2"/>
+								<objectRef key="1 1 3"/>
+								<objectRef key="1 1 4"/>
+							</dockableChildPanes>
+						</dockableChildPane>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="true" keyText="Network Objects1" no="2" paneLayoutNo="0" paneType="CONTROL" pinned="true" sizeHeight="608" sizeWidth="202" subType="" tag="" text="Network Objects" textTabResolved="Network Objects" type="PTV.Vision.Controls.MainWindowNetObjSelectionControl, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="false" keyText="Levels1" no="3" paneLayoutNo="0" paneType="CONTROL" pinned="true" sizeHeight="0" sizeWidth="0" subType="" tag="" text="Levels" textTabResolved="Levels" type="PTV.Vision.Controls.LevelSelectionControl, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="false" keyText="Backgrounds1" no="4" paneLayoutNo="0" paneType="CONTROL" pinned="true" sizeHeight="0" sizeWidth="0" subType="" tag="" text="Backgrounds" textTabResolved="Backgrounds" type="PTV.Vision.Controls.BackgroundSelectionControl, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="2" flyoutSizeHeight="0" flyoutSizeWidth="0" isDirectAreaChild="true" isSelectedTab="false" keyText="" no="5" paneLayoutNo="0" paneType="GROUP" pinned="false" sizeHeight="313" sizeWidth="202" subType="" tag="" text="" textTabResolved="" type="" visible="true">
+							<dockableChildPanes>
+								<objectRef key="1 1 6"/>
+								<objectRef key="1 1 7"/>
+							</dockableChildPanes>
+						</dockableChildPane>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="true" keyText="Quick View1" no="6" paneLayoutNo="0" paneType="CONTROL" pinned="true" sizeHeight="291" sizeWidth="202" subType="" tag="" text="Quick View" textTabResolved="Quick View" type="PTV.Vision.Controls.ObjectPropertiesWindow, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="false" keyText="Smart Map1" no="7" paneLayoutNo="7" paneType="CONTROL" pinned="true" sizeHeight="0" sizeWidth="0" subType="" tag="" text="Smart Map" textTabResolved="Smart Map" type="PTV.Vision.Controls.SmartMapControl, ControlUtils, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+					</dockChildPanes>
+				</dockableAreaPane>
+				<dockableAreaPane childPaneStyle="1" dockedLocation="4" floating="false" floatingLocationX="-1" floatingLocationY="-1" keyText="" no="2" paneType="AREA" sizeHeight="948" sizeWidth="1713" tag="" text="" textTabResolved="" visible="true">
+					<dockChildPanes>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="true" isSelectedTab="true" keyText="Network Editor1" no="1" paneLayoutNo="8" paneType="CONTROL" pinned="true" sizeHeight="603" sizeWidth="1713" subType="" tag="" text="Network Editor" textTabResolved="Network Editor" type="PTV.Vision.Controls.NetEditorControl, ControlUtils, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="0" flyoutSizeWidth="0" isDirectAreaChild="true" isSelectedTab="false" keyText="" no="2" paneLayoutNo="0" paneType="GROUP" pinned="false" sizeHeight="340" sizeWidth="1713" subType="" tag="" text="" textTabResolved="" type="" visible="true">
+							<dockableChildPanes>
+								<objectRef key="1 2 3"/>
+								<objectRef key="1 2 9"/>
+							</dockableChildPanes>
+						</dockableChildPane>
+						<dockableChildPane childPaneStyle="2" flyoutSizeHeight="0" flyoutSizeWidth="0" isDirectAreaChild="false" isSelectedTab="false" keyText="" no="3" paneLayoutNo="0" paneType="GROUP" pinned="false" sizeHeight="340" sizeWidth="591" subType="" tag="" text="" textTabResolved="" type="" visible="true">
+							<dockableChildPanes>
+								<objectRef key="1 2 4"/>
+								<objectRef key="1 2 5"/>
+								<objectRef key="1 2 6"/>
+								<objectRef key="1 2 7"/>
+								<objectRef key="1 2 8"/>
+							</dockableChildPanes>
+						</dockableChildPane>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="true" keyText="Links1" no="4" paneLayoutNo="2" paneType="CONTROL" pinned="true" sizeHeight="318" sizeWidth="591" subType="Parent LINK" tag="" text="Links" textTabResolved="Links" type="PTV.Vision.Controls.CoupledListWindow, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="false" keyText="Signal Controllers1" no="5" paneLayoutNo="3" paneType="CONTROL" pinned="true" sizeHeight="0" sizeWidth="0" subType="Parent SIGNALCONTROLLER" tag="" text="Signal Controllers" textTabResolved="Signal Controllers" type="PTV.Vision.Controls.CoupledListWindow, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="false" keyText="Static Vehicle Routes1" no="6" paneLayoutNo="4" paneType="CONTROL" pinned="true" sizeHeight="0" sizeWidth="0" subType="Parent VEHICLEROUTESTATIC" tag="" text="Static Vehicle Routes" textTabResolved="Static Vehicle Routes" type="PTV.Vision.Controls.CoupledListWindow, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="false" keyText="Vehicle Inputs1" no="7" paneLayoutNo="5" paneType="CONTROL" pinned="true" sizeHeight="0" sizeWidth="0" subType="Parent VEHICLEINPUT" tag="" text="Vehicle Inputs / Vehicle volumes by time interval" textTabResolved="Vehicle Inputs / Vehicle volumes by time interval" type="PTV.Vision.Controls.CoupledListWindow, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="false" keyText="Vehicle Compositions1" no="8" paneLayoutNo="6" paneType="CONTROL" pinned="true" sizeHeight="0" sizeWidth="0" subType="Parent VEHICLECOMPOSITION" tag="" text="Vehicle Compositions / Relative flows" textTabResolved="Vehicle Compositions / Relative flows" type="PTV.Vision.Controls.CoupledListWindow, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="2" flyoutSizeHeight="0" flyoutSizeWidth="0" isDirectAreaChild="false" isSelectedTab="false" keyText="" no="9" paneLayoutNo="0" paneType="GROUP" pinned="false" sizeHeight="340" sizeWidth="1117" subType="" tag="" text="" textTabResolved="" type="" visible="true">
+							<dockableChildPanes>
+								<objectRef key="1 2 10"/>
+								<objectRef key="1 2 11"/>
+							</dockableChildPanes>
+						</dockableChildPane>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="true" keyText="Scripts1" no="10" paneLayoutNo="1" paneType="CONTROL" pinned="true" sizeHeight="318" sizeWidth="1117" subType="Parent SCRIPT" tag="" text="Scripts" textTabResolved="Scripts" type="PTV.Vision.Controls.CoupledListWindow, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+						<dockableChildPane childPaneStyle="0" flyoutSizeHeight="-1" flyoutSizeWidth="-1" isDirectAreaChild="false" isSelectedTab="false" keyText="Simulation Runs1" no="11" paneLayoutNo="7" paneType="CONTROL" pinned="true" sizeHeight="0" sizeWidth="0" subType="Parent SIMULATIONRUN" tag="" text="Simulation Runs" textTabResolved="Simulation Runs" type="PTV.Vision.Controls.CoupledListWindow, Controls, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" visible="true"/>
+					</dockChildPanes>
+				</dockableAreaPane>
+			</dockAreaPanes>
+			<mainWindow height="1056" maximized="true" positionX="-8" positionY="-8" width="1936"/>
+		</windowLayoutCurrent>
+	</currentWindowLayouts>
+	<defaultWindowLayouts>
+		<windowLayoutDefault floating="false" height="143" no="1" positionX="235" positionY="1682" subType="Parent SIGNALCONTROLLER" type="CoupledListWindow" width="1685"/>
+		<windowLayoutDefault floating="false" height="325" no="2" positionX="195" positionY="1274" subType="Parent VEHICLETRAVELTIMEMEASUREMENTEVALUATION" type="CoupledListWindow" width="1725"/>
+		<windowLayoutDefault floating="false" height="277" no="3" positionX="195" positionY="1414" subType="Parent VEHICLETRAVELTIMEMEASUREMENT" type="CoupledListWindow" width="1725"/>
+		<windowLayoutDefault floating="false" height="298" no="4" positionX="306" positionY="1372" subType="Parent SIMULATIONRUN" type="CoupledListWindow" width="1614"/>
+		<windowLayoutDefault floating="false" height="278" no="5" positionX="180" positionY="1412" subType="TIMEINTERVAL" type="ListWindow" width="1740"/>
+		<windowLayoutDefault floating="false" height="325" no="6" positionX="195" positionY="1274" subType="Parent VEHICLEINPUT" type="CoupledListWindow" width="1725"/>
+		<windowLayoutDefault floating="false" height="100" no="7" positionX="306" positionY="1768" subType="Parent LINK" type="CoupledListWindow" width="1614"/>
+		<windowLayoutDefault floating="false" height="299" no="8" positionX="195" positionY="1326" subType="Parent DATACOLLECTIONMEASUREMENT" type="CoupledListWindow" width="1725"/>
+		<windowLayoutDefault floating="false" height="415" no="9" positionX="195" positionY="1138" subType="Parent DATACOLLECTIONMEASUREMENTEVALUATION" type="CoupledListWindow" width="1725"/>
+		<windowLayoutDefault floating="false" height="451" no="10" positionX="195" positionY="1022" subType="Parent QUEUECOUNTER" type="CoupledListWindow" width="1725"/>
+		<windowLayoutDefault floating="false" height="219" no="11" positionX="190" positionY="1486" subType="Parent VEHICLECLASS" type="CoupledListWindow" width="1730"/>
+		<windowLayoutDefault floating="false" height="230" no="12" positionX="180" positionY="1508" subType="Parent REDUCEDSPEEDAREA" type="CoupledListWindow" width="1740"/>
+		<windowLayoutDefault floating="false" height="164" no="13" positionX="240" positionY="1960" subType="Parent DISPLAYTYPE" type="CoupledListWindow" width="1680"/>
+		<windowLayoutDefault floating="true" height="435" no="14" positionX="315" positionY="315" subType="" type="MessageWindow" width="1530"/>
+	</defaultWindowLayouts>
+	<listLayouts>
+		<listLayout childRelation="" exportListWhenSimulationFinished="false" name="" no="1" synchronization="true" verticalSplitterPosition="0.5">
+			<netObjectLParSet autoSizeChildColumnWidthsToContent="false" filtered="false" headerHeight="0" netObjectTypeID="SCRIPT" rowHeaderWidth="64" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="NO" columnWidth="29" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="45" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="RUNTYPE" columnWidth="60" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="FROMTIME" columnWidth="68" decimals="2" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="TOTIME" columnWidth="54" decimals="2" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="PERIOD" columnWidth="47" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="SCOPE" columnWidth="88" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="SCRIPTFILE" columnWidth="154" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="FUNCNAME" columnWidth="195" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="COMMENT" columnWidth="297" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter>
+							<filterCriterionString active="false" criterionType="EQUALS" filterValue=""/>
+						</filter>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectLParSet>
+		</listLayout>
+		<listLayout childRelation="" exportListWhenSimulationFinished="false" name="" no="2" synchronization="true" verticalSplitterPosition="0.5">
+			<netObjectLParSet autoSizeChildColumnWidthsToContent="false" filtered="false" headerHeight="0" netObjectTypeID="LINK" rowHeaderWidth="64" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="NO" columnWidth="29" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="191" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="NUMLANES" columnWidth="51" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="LENGTH2D" columnWidth="67" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="CENTER" attributeID="ISCONN" columnWidth="50" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="COSTPERKM" columnWidth="100" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectLParSet>
+		</listLayout>
+		<listLayout childRelation="" exportListWhenSimulationFinished="false" name="" no="3" synchronization="true" verticalSplitterPosition="0.5">
+			<netObjectLParSet autoSizeChildColumnWidthsToContent="false" filtered="false" headerHeight="0" netObjectTypeID="SIGNALCONTROLLER" rowHeaderWidth="57" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="NO" columnWidth="29" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="131" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="TYPE" columnWidth="64" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="CYCTM" columnWidth="55" decimals="0" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="CENTER" attributeID="CYCTMISVAR" columnWidth="76" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="SUPPLYFILE1" columnWidth="256" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="SUPPLYFILE2" columnWidth="151" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="PROGNO" columnWidth="54" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectLParSet>
+		</listLayout>
+		<listLayout childRelation="" exportListWhenSimulationFinished="false" name="" no="4" synchronization="true" verticalSplitterPosition="0.5">
+			<netObjectLParSet autoSizeChildColumnWidthsToContent="false" filtered="false" headerHeight="0" netObjectTypeID="VEHICLEROUTESTATIC" rowHeaderWidth="57" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="VEHROUTDEC" columnWidth="78" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="NO" columnWidth="29" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="45" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESTLINK" columnWidth="58" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="DESTPOS" columnWidth="67" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="RELFLOW(1)" columnWidth="68" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectLParSet>
+		</listLayout>
+		<listLayout childRelation="TIMEINTVEHVOLS" exportListWhenSimulationFinished="false" name="" no="5" synchronization="true" verticalSplitterPosition="0.60642570281124497">
+			<childNetObjectLParSets>
+				<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="TIMEINTERVALVEHVOLUME" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+					<attributeLPars>
+						<attributeListLayoutParameters alignment="CENTER" attributeID="CONT" columnWidth="39" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+							<filter/>
+						</attributeListLayoutParameters>
+						<attributeListLayoutParameters alignment="LEFT" attributeID="TIMEINT" columnWidth="53" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+							<filter/>
+						</attributeListLayoutParameters>
+						<attributeListLayoutParameters alignment="RIGHT" attributeID="VOLUME" columnWidth="53" decimals="1" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+							<filter/>
+						</attributeListLayoutParameters>
+						<attributeListLayoutParameters alignment="LEFT" attributeID="VEHCOMP" columnWidth="65" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+							<filter/>
+						</attributeListLayoutParameters>
+						<attributeListLayoutParameters alignment="LEFT" attributeID="VOLTYPE" columnWidth="53" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+							<filter/>
+						</attributeListLayoutParameters>
+					</attributeLPars>
+				</netObjectListLayoutParameters>
+			</childNetObjectLParSets>
+			<netObjectLParSet autoSizeChildColumnWidthsToContent="false" filtered="false" headerHeight="0" netObjectTypeID="VEHICLEINPUT" rowHeaderWidth="57" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="NO" columnWidth="29" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="45" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LINK" columnWidth="101" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="VOLUME(1)" columnWidth="68" decimals="1" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="VOLUME(2)" columnWidth="80" decimals="1" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="VEHCOMP(1)" columnWidth="80" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="VEHCOMP(2)" columnWidth="92" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectLParSet>
+		</listLayout>
+		<listLayout childRelation="VEHCOMPRELFLOWS" exportListWhenSimulationFinished="false" name="" no="6" synchronization="true" verticalSplitterPosition="0.29518072289156627">
+			<childNetObjectLParSets>
+				<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="VEHICLECOMPOSITIONRELATIVEFLOW" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+					<attributeLPars>
+						<attributeListLayoutParameters alignment="LEFT" attributeID="VEHTYPE" columnWidth="56" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+							<filter/>
+						</attributeListLayoutParameters>
+						<attributeListLayoutParameters alignment="LEFT" attributeID="DESSPEEDDISTR" columnWidth="88" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+							<filter/>
+						</attributeListLayoutParameters>
+						<attributeListLayoutParameters alignment="RIGHT" attributeID="RELFLOW" columnWidth="54" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+							<filter/>
+						</attributeListLayoutParameters>
+					</attributeLPars>
+				</netObjectListLayoutParameters>
+			</childNetObjectLParSets>
+			<netObjectLParSet autoSizeChildColumnWidthsToContent="false" filtered="false" headerHeight="0" netObjectTypeID="VEHICLECOMPOSITION" rowHeaderWidth="57" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="NO" columnWidth="29" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="48" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectLParSet>
+		</listLayout>
+		<listLayout childRelation="" exportListWhenSimulationFinished="false" name="" no="7" synchronization="true" verticalSplitterPosition="0.5">
+			<netObjectLParSet autoSizeChildColumnWidthsToContent="false" filtered="false" headerHeight="0" netObjectTypeID="SIMULATIONRUN" rowHeaderWidth="57" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="NO" columnWidth="29" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="TIMESTAMP" columnWidth="73" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="RANDSEED" columnWidth="65" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="STARTTM" columnWidth="55" decimals="0" format="TIMEPOINT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="RIGHT" attributeID="SIMEND" columnWidth="53" decimals="1" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectLParSet>
+		</listLayout>
+	</listLayouts>
+	<networkEditorLayouts>
+		<networkEditorLayout name="" no="1" synchronization="NONE">
+			<camera coord2DX="0" coord2DY="0" coord3DX="0" coord3DY="0" coord3DZ="125.7107" foV="45" pitchAngle="1.5707963267948966" rollAngle="0" yawAngle="1.5707963267948966" zoom2D="0"/>
+			<gParSet>
+				<backgroundGPars borderColor="ff000000" borderLineStyle="NOLINE" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<baseGPars autoLvlTransp="true" backgroundColor="ffc0c0c0" compassPos="BOTTOMRIGHT" legdOffset="10 10" legdPos="BOTTOMRIGHT" legdScale="1" logoFilename="" logoOffset="20 20" logoPos="TOPLEFT" mapGrayScale="false" mapIntensity="100" mapProviderName="" mapType="DEFAULTMAPPROVIDER" mode3D="false" rubberbandColor="fff0f000" selectionColor="fff0f000" showCompass="false" showGrid="true" showLegd="false" showLogo="false" showMap="true" showScale="true" showSimTmLabel="false" simTmLabelColor="ff000000" simTmLabelFontSize="20" simTmLabelOffset="15 30" simTmLabelPos="BOTTOMLEFT" wireframeMode="false">
+					<compassOffsetInternal x="0" y="0"/>
+					<legendOffsetInternal x="10" y="10"/>
+					<logoOffsetInternal x="20" y="20"/>
+					<simTmLabelOffsetInternal x="15" y="30"/>
+				</baseGPars>
+				<conflictAreaGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<dataCollectionPointGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff7f593f" objectVisibility="true" useLabelColorScheme="false"/>
+				<desiredSpeedDecisionGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<detectorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="PORTNO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<elevatorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclElevColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<fireEventGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" quanColor="ff000000" quanID="" quanScale="1" useLabelColorScheme="false"/>
+				<flowBundleGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" showFlowBunBars="true" useLabelColorScheme="false">
+					<flowBunBarGPar autoScaleAct="true" color="ff000000" latOffset="0" scaleMax="20000" scaleMin="0" scaleWidMax="0.004"/>
+				</flowBundleGPars>
+				<gPars3D buildingColor="ffe0e0e0" fogExpDensity="2" fogLinEnd="28000" fogLinStart="5000" fogMode="OFF" landColor="ffc0c0c0" landTexture="" landTextureHorizontalLength="1" shadColor="50000000" showBuildings="false" showLand="true" showMap="false" showShad="false" skyColor="ff00aafa" skyTexture="" undergroundColor="ff291e19" undergroundTexture=""/>
+				<informationSign3DGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<linkGPars borderColor="ff606060" borderLineStyle="NOLINE" colorSchemeDisplayBase="LANEBASED" connectorBorderColor="ff606060" connectorBorderLineStyle="NOLINE" connectorFillColor="ff808080" connectorFillStyle="SOLIDFILL" connectorRvsWireframeColor="ffffd800" connectorWireframeColor="ff800080" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" laneMarkingColor="fff0f0f0" laneMarkingDrawingMode="USELANEMARKINGTYPE" laneMarkingWidth="0.12" legdInclLabColor="false" legdInclLinkBarColor="false" legdInclLinkColor="false" linkBarDrawingMode="NOLINKBARS" linkWireFrameColor="ff000080" objectVisibility="true" ovtLnDrawingMode="LINKSANDOVERTAKINGLANES" useLabelColorScheme="false"/>
+				<nodeGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclNodeColor="false" legdInclTurnValColor="false" objectVisibility="true" qLenAttr="" qLenColor="96000000" segmentBorderColor="ff000080" segmentBorderLineStyle="SOLIDLINE" segmentFillColor="99000080" segmentFillStyle="NOFILL" showQLen="false" showQLenLabel="true" showTurnValVisual="false" useLabelColorScheme="false"/>
+				<ptLineGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" endLineColor="ff008000" fillStyle="SOLIDFILL" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" ptLineFillColor="99808000" startLineColor="ff800000" useLabelColorScheme="false"/>
+				<ptStopGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<parkingLotGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="PARKINGLOTBASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclParkLotColor="false" objectVisibility="true" showColorSchemeLabel="false" useLabelColorScheme="false"/>
+				<pavementMarkingGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffffff" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAreaGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="AREABASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclAreaColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAttrDecGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedInputGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedObstacleGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclObstColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRampGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="AREABASED" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclRampColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRoutingDecisionGPars endPointBorderColor="ff000080" endPointBorderLineStyle="SOLIDLINE" endPointFillColor="ff808080" endPointFillStyle="SOLIDFILL" intermediatePointsBorderColor="ff000080" intermediatePointsBorderLineStyle="SOLIDLINE" intermediatePointsFillColor="ff0066cc" intermediatePointsFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" partialRouteColor="fff000f0" startPointBorderColor="ff000080" startPointBorderLineStyle="SOLIDLINE" startPointFillColor="ff808080" startPointFillStyle="SOLIDFILL" staticRouteColor="fff0f000" useLabelColorScheme="false"/>
+				<pedTravelTimeMeasurementGPars endPointBorderColor="ff000080" endPointBorderLineStyle="SOLIDLINE" endPointFillColor="ff808080" endPointFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startPointBorderColor="ff000080" startPointBorderLineStyle="SOLIDLINE" startPointFillColor="ff808080" startPointFillStyle="SOLIDFILL" useLabelColorScheme="false"/>
+				<pedestrianGPars colorSchemeConfig="" drawingMode="COLORDISTRIBUTION" legdInclPedColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED"/>
+				<priorityRulesGPars clearColor="ff008000" clearVisib="true" endLineColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ff800000" useLabelColorScheme="false"/>
+				<queueCounterGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" qLenAttr="" qLenColor="96dba4ff" showQLen="false" showQLenLabel="true" useLabelColorScheme="false"/>
+				<reducedSpeedAreaGPars borderColor="a0008000" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<sectionGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclSectColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<signalHeadGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" trafficSignalDisplay="BLOCKS" useLabelColorScheme="false"/>
+				<static3DModelGPars borderColor="a0ffffff" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<stopSignGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<trafficSignal3DGPars color2D="ff000080" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" mastColor2D="ff008000" objectVisibility="true" signalArmColor2D="ff800000" signalHeadColor2D="ff000080" streetlightColor2D="ff808000" useLabelColorScheme="false"/>
+				<vehAttrDecGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleGPars drawingMode="COLORDISTRIBUTION" labelAttribute="NO" labelAutoRot="true" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclVehColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED" useLabelColorScheme="false"/>
+				<vehicleInputGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleRoutingDecisionGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" closureRouteColor="99f00000" endLineColor="ff008000" inactiveStopColor="ff800000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" managedLaneGeneralRouteColor="9900a000" managedLaneManagedRouteColor="99a00000" objectVisibility="true" parkingLotRouteColor="990000a0" partialPTRouteColor="99f0f000" partialRouteColor="99f0f000" startLineColor="ff800000" staticRouteColor="99f0f000" useLabelColorScheme="false"/>
+				<vehicleTravelTimeMeasurementsGPars endLineColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ff800000" useLabelColorScheme="false"/>
+			</gParSet>
+		</networkEditorLayout>
+		<networkEditorLayout name="Bing Maps" no="2" synchronization="NONE">
+			<camera coord2DX="264.660503" coord2DY="20.796953" coord3DX="0" coord3DY="0" coord3DZ="125.7107" foV="45" pitchAngle="1.5707963267948966" rollAngle="0" yawAngle="1.5707963267948966" zoom2D="0.246727"/>
+			<gParSet>
+				<backgroundGPars borderColor="ff000000" borderLineStyle="NOLINE" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<baseGPars autoLvlTransp="true" backgroundColor="ffc0c0c0" compassPos="BOTTOMRIGHT" legdOffset="10 10" legdPos="BOTTOMRIGHT" legdScale="1" logoFilename="" logoOffset="20 20" logoPos="TOPLEFT" mapGrayScale="false" mapIntensity="100" mapProviderName="" mapType="BINGMAPS" mode3D="false" rubberbandColor="fff0f000" selectionColor="fff0f000" showCompass="false" showGrid="false" showLegd="false" showLogo="false" showMap="true" showScale="true" showSimTmLabel="false" simTmLabelColor="ff000000" simTmLabelFontSize="20" simTmLabelOffset="15 30" simTmLabelPos="BOTTOMLEFT" wireframeMode="false">
+					<compassOffsetInternal x="0" y="0"/>
+					<legendOffsetInternal x="10" y="10"/>
+					<logoOffsetInternal x="20" y="20"/>
+					<simTmLabelOffsetInternal x="15" y="30"/>
+				</baseGPars>
+				<conflictAreaGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<dataCollectionPointGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff7f593f" objectVisibility="true" useLabelColorScheme="false"/>
+				<desiredSpeedDecisionGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffff00" objectVisibility="true" useLabelColorScheme="false"/>
+				<detectorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="PORTNO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<elevatorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclElevColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<fireEventGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" quanColor="ff000000" quanID="" quanScale="1" useLabelColorScheme="false"/>
+				<flowBundleGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" showFlowBunBars="true" useLabelColorScheme="false">
+					<flowBunBarGPar autoScaleAct="true" color="ff000000" latOffset="0" scaleMax="20000" scaleMin="0" scaleWidMax="0.004"/>
+				</flowBundleGPars>
+				<gPars3D buildingColor="ffe0e0e0" fogExpDensity="2" fogLinEnd="28000" fogLinStart="5000" fogMode="OFF" landColor="ffc0c0c0" landTexture="" landTextureHorizontalLength="1" shadColor="50000000" showBuildings="false" showLand="true" showMap="false" showShad="false" skyColor="ff00aafa" skyTexture="#3dmodels#Textures\Sky_bright01.bmp" undergroundColor="ff291e19" undergroundTexture=""/>
+				<informationSign3DGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<linkGPars borderColor="ff606060" borderLineStyle="NOLINE" colorSchemeDisplayBase="LANEBASED" connectorBorderColor="ff606060" connectorBorderLineStyle="NOLINE" connectorFillColor="ff808080" connectorFillStyle="SOLIDFILL" connectorRvsWireframeColor="ffffd800" connectorWireframeColor="ffc000c0" drawingMode="CONSTCOLORS" fillColor="83808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" laneMarkingColor="fff0f0f0" laneMarkingDrawingMode="USELANEMARKINGTYPE" laneMarkingWidth="0.12" legdInclLabColor="false" legdInclLinkBarColor="false" legdInclLinkColor="false" linkBarDrawingMode="NOLINKBARS" linkWireFrameColor="ff000080" objectVisibility="true" ovtLnDrawingMode="LINKSANDOVERTAKINGLANES" useLabelColorScheme="false"/>
+				<nodeGPars borderColor="ff000000" borderLineStyle="SOLIDLINE" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclNodeColor="false" legdInclTurnValColor="false" objectVisibility="true" qLenAttr="" qLenColor="96000000" segmentBorderColor="ff404040" segmentBorderLineStyle="SOLIDLINE" segmentFillColor="99000080" segmentFillStyle="NOFILL" showQLen="false" showQLenLabel="true" showTurnValVisual="false" useLabelColorScheme="false"/>
+				<ptLineGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" endLineColor="ff00c0c0" fillStyle="SOLIDFILL" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" ptLineFillColor="99ff8000" startLineColor="ff0000ff" useLabelColorScheme="false"/>
+				<ptStopGPars borderColor="ff800000" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<parkingLotGPars borderColor="ff0000ff" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="PARKINGLOTBASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclParkLotColor="false" objectVisibility="true" showColorSchemeLabel="false" useLabelColorScheme="false"/>
+				<pavementMarkingGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffffff" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAreaGPars borderColor="ff000000" borderLineStyle="NOLINE" colorSchemeDisplayBase="AREABASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclAreaColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAttrDecGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedInputGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff000000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedObstacleGPars borderColor="ff800000" borderLineStyle="NOLINE" drawingMode="DISPLAYTYPE" fillColor="ff800000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclObstColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRampGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="AREABASED" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclRampColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRoutingDecisionGPars endPointBorderColor="ff000080" endPointBorderLineStyle="NOLINE" endPointFillColor="ff00c0c0" endPointFillStyle="SOLIDFILL" intermediatePointsBorderColor="ff000080" intermediatePointsBorderLineStyle="SOLIDLINE" intermediatePointsFillColor="ff0066cc" intermediatePointsFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" partialRouteColor="ffffff00" startPointBorderColor="ff000080" startPointBorderLineStyle="NOLINE" startPointFillColor="ffc04000" startPointFillStyle="SOLIDFILL" staticRouteColor="ffffff00" useLabelColorScheme="false"/>
+				<pedTravelTimeMeasurementGPars endPointBorderColor="ff404040" endPointBorderLineStyle="SOLIDLINE" endPointFillColor="ffc0ffc0" endPointFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startPointBorderColor="ff404040" startPointBorderLineStyle="SOLIDLINE" startPointFillColor="ffffc0c0" startPointFillStyle="SOLIDFILL" useLabelColorScheme="false"/>
+				<pedestrianGPars colorSchemeConfig="" drawingMode="COLORDISTRIBUTION" legdInclPedColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED"/>
+				<priorityRulesGPars clearColor="ff008000" clearVisib="true" endLineColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffc04000" useLabelColorScheme="false"/>
+				<queueCounterGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffdba4ff" objectVisibility="true" qLenAttr="" qLenColor="96dba4ff" showQLen="false" showQLenLabel="true" useLabelColorScheme="false"/>
+				<reducedSpeedAreaGPars borderColor="ffffff00" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<sectionGPars borderColor="ff0000c0" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff008000" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclSectColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<signalHeadGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" trafficSignalDisplay="BLOCKS" useLabelColorScheme="false"/>
+				<static3DModelGPars borderColor="a0ffffff" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<stopSignGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffff8000" objectVisibility="true" useLabelColorScheme="false"/>
+				<trafficSignal3DGPars color2D="ff000080" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" mastColor2D="ff008000" objectVisibility="true" signalArmColor2D="ff800000" signalHeadColor2D="ff000080" streetlightColor2D="ff808000" useLabelColorScheme="false"/>
+				<vehAttrDecGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleGPars drawingMode="COLORDISTRIBUTION" labelAttribute="NO" labelAutoRot="true" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclVehColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED" useLabelColorScheme="false"/>
+				<vehicleInputGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff000000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleRoutingDecisionGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" closureRouteColor="99f00000" endLineColor="ff00c0c0" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" managedLaneGeneralRouteColor="9900a000" managedLaneManagedRouteColor="99a00000" objectVisibility="true" parkingLotRouteColor="990000a0" partialPTRouteColor="99f0f000" partialRouteColor="99f0f000" startLineColor="ffc000c0" staticRouteColor="99f0f000" useLabelColorScheme="false"/>
+				<vehicleTravelTimeMeasurementsGPars endLineColor="ffc0ffc0" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffffc0c0" useLabelColorScheme="false"/>
+			</gParSet>
+		</networkEditorLayout>
+		<networkEditorLayout name="OpenStreetMap" no="3" synchronization="NONE">
+			<camera coord2DX="264.660503" coord2DY="20.796953" coord3DX="0" coord3DY="0" coord3DZ="125.7107" foV="45" pitchAngle="1.5707963267948966" rollAngle="0" yawAngle="1.5707963267948966" zoom2D="0.246727"/>
+			<gParSet>
+				<backgroundGPars borderColor="ff000000" borderLineStyle="NOLINE" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<baseGPars autoLvlTransp="true" backgroundColor="ffc0c0c0" compassPos="BOTTOMRIGHT" legdOffset="10 10" legdPos="BOTTOMRIGHT" legdScale="1" logoFilename="" logoOffset="20 20" logoPos="TOPLEFT" mapGrayScale="false" mapIntensity="100" mapProviderName="" mapType="PTVDEFAULT" mode3D="false" rubberbandColor="fff0f000" selectionColor="fff0f000" showCompass="false" showGrid="false" showLegd="false" showLogo="false" showMap="true" showScale="true" showSimTmLabel="false" simTmLabelColor="ff000000" simTmLabelFontSize="20" simTmLabelOffset="15 30" simTmLabelPos="BOTTOMLEFT" wireframeMode="false">
+					<compassOffsetInternal x="0" y="0"/>
+					<legendOffsetInternal x="10" y="10"/>
+					<logoOffsetInternal x="20" y="20"/>
+					<simTmLabelOffsetInternal x="15" y="30"/>
+				</baseGPars>
+				<conflictAreaGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<dataCollectionPointGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff7f593f" objectVisibility="true" useLabelColorScheme="false"/>
+				<desiredSpeedDecisionGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffff00" objectVisibility="true" useLabelColorScheme="false"/>
+				<detectorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="PORTNO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<elevatorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclElevColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<fireEventGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" quanColor="ff000000" quanID="" quanScale="1" useLabelColorScheme="false"/>
+				<flowBundleGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" showFlowBunBars="true" useLabelColorScheme="false">
+					<flowBunBarGPar autoScaleAct="true" color="ff000000" latOffset="0" scaleMax="20000" scaleMin="0" scaleWidMax="0.004"/>
+				</flowBundleGPars>
+				<gPars3D buildingColor="ffe0e0e0" fogExpDensity="2" fogLinEnd="28000" fogLinStart="5000" fogMode="OFF" landColor="ffc0c0c0" landTexture="" landTextureHorizontalLength="1" shadColor="50000000" showBuildings="false" showLand="true" showMap="false" showShad="false" skyColor="ff00aafa" skyTexture="#3dmodels#Textures\Sky_bright01.bmp" undergroundColor="ff291e19" undergroundTexture=""/>
+				<informationSign3DGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<linkGPars borderColor="ff606060" borderLineStyle="NOLINE" colorSchemeDisplayBase="LANEBASED" connectorBorderColor="ff606060" connectorBorderLineStyle="NOLINE" connectorFillColor="ff808080" connectorFillStyle="SOLIDFILL" connectorRvsWireframeColor="ffffd800" connectorWireframeColor="ffc000c0" drawingMode="CONSTCOLORS" fillColor="83808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" laneMarkingColor="fff0f0f0" laneMarkingDrawingMode="USELANEMARKINGTYPE" laneMarkingWidth="0.12" legdInclLabColor="false" legdInclLinkBarColor="false" legdInclLinkColor="false" linkBarDrawingMode="NOLINKBARS" linkWireFrameColor="ff000080" objectVisibility="true" ovtLnDrawingMode="LINKSANDOVERTAKINGLANES" useLabelColorScheme="false"/>
+				<nodeGPars borderColor="ff000000" borderLineStyle="SOLIDLINE" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclNodeColor="false" legdInclTurnValColor="false" objectVisibility="true" qLenAttr="" qLenColor="96000000" segmentBorderColor="ff404040" segmentBorderLineStyle="SOLIDLINE" segmentFillColor="99000080" segmentFillStyle="NOFILL" showQLen="false" showQLenLabel="true" showTurnValVisual="false" useLabelColorScheme="false"/>
+				<ptLineGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" endLineColor="ff00c0c0" fillStyle="SOLIDFILL" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" ptLineFillColor="99ff8000" startLineColor="ff0000ff" useLabelColorScheme="false"/>
+				<ptStopGPars borderColor="ff800000" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<parkingLotGPars borderColor="ff0000ff" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="PARKINGLOTBASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclParkLotColor="false" objectVisibility="true" showColorSchemeLabel="false" useLabelColorScheme="false"/>
+				<pavementMarkingGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffffff" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAreaGPars borderColor="ff000000" borderLineStyle="NOLINE" colorSchemeDisplayBase="AREABASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclAreaColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAttrDecGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedInputGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff000000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedObstacleGPars borderColor="ff800000" borderLineStyle="NOLINE" drawingMode="DISPLAYTYPE" fillColor="ff800000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclObstColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRampGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="AREABASED" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclRampColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRoutingDecisionGPars endPointBorderColor="ff000080" endPointBorderLineStyle="NOLINE" endPointFillColor="ff00c0c0" endPointFillStyle="SOLIDFILL" intermediatePointsBorderColor="ff000080" intermediatePointsBorderLineStyle="SOLIDLINE" intermediatePointsFillColor="ff0066cc" intermediatePointsFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" partialRouteColor="ffffff00" startPointBorderColor="ff000080" startPointBorderLineStyle="NOLINE" startPointFillColor="ffc04000" startPointFillStyle="SOLIDFILL" staticRouteColor="ffffff00" useLabelColorScheme="false"/>
+				<pedTravelTimeMeasurementGPars endPointBorderColor="ff404040" endPointBorderLineStyle="SOLIDLINE" endPointFillColor="ffc0ffc0" endPointFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startPointBorderColor="ff404040" startPointBorderLineStyle="SOLIDLINE" startPointFillColor="ffffc0c0" startPointFillStyle="SOLIDFILL" useLabelColorScheme="false"/>
+				<pedestrianGPars colorSchemeConfig="" drawingMode="COLORDISTRIBUTION" legdInclPedColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED"/>
+				<priorityRulesGPars clearColor="ff008000" clearVisib="true" endLineColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffc04000" useLabelColorScheme="false"/>
+				<queueCounterGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffdba4ff" objectVisibility="true" qLenAttr="" qLenColor="96dba4ff" showQLen="false" showQLenLabel="true" useLabelColorScheme="false"/>
+				<reducedSpeedAreaGPars borderColor="ffffff00" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<sectionGPars borderColor="ff0000c0" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff008000" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclSectColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<signalHeadGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" trafficSignalDisplay="BLOCKS" useLabelColorScheme="false"/>
+				<static3DModelGPars borderColor="a0ffffff" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<stopSignGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffff8000" objectVisibility="true" useLabelColorScheme="false"/>
+				<trafficSignal3DGPars color2D="ff000080" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" mastColor2D="ff008000" objectVisibility="true" signalArmColor2D="ff800000" signalHeadColor2D="ff000080" streetlightColor2D="ff808000" useLabelColorScheme="false"/>
+				<vehAttrDecGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleGPars drawingMode="COLORDISTRIBUTION" labelAttribute="NO" labelAutoRot="true" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclVehColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED" useLabelColorScheme="false"/>
+				<vehicleInputGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff000000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleRoutingDecisionGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" closureRouteColor="99f00000" endLineColor="ff00c0c0" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" managedLaneGeneralRouteColor="9900a000" managedLaneManagedRouteColor="99a00000" objectVisibility="true" parkingLotRouteColor="990000a0" partialPTRouteColor="99f0f000" partialRouteColor="99f0f000" startLineColor="ffc000c0" staticRouteColor="99f0f000" useLabelColorScheme="false"/>
+				<vehicleTravelTimeMeasurementsGPars endLineColor="ffc0ffc0" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffffc0c0" useLabelColorScheme="false"/>
+			</gParSet>
+		</networkEditorLayout>
+		<networkEditorLayout name="No Maps" no="4" synchronization="NONE">
+			<camera coord2DX="264.660503" coord2DY="20.796953" coord3DX="0" coord3DY="0" coord3DZ="125.7107" foV="45" pitchAngle="1.5707963267948966" rollAngle="0" yawAngle="1.5707963267948966" zoom2D="0.246727"/>
+			<gParSet>
+				<backgroundGPars borderColor="ff000000" borderLineStyle="NOLINE" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<baseGPars autoLvlTransp="true" backgroundColor="ffc0c0c0" compassPos="BOTTOMRIGHT" legdOffset="10 10" legdPos="BOTTOMRIGHT" legdScale="1" logoFilename="" logoOffset="20 20" logoPos="TOPLEFT" mapGrayScale="false" mapIntensity="100" mapProviderName="" mapType="BINGMAPS" mode3D="false" rubberbandColor="fff0f000" selectionColor="fff0f000" showCompass="false" showGrid="false" showLegd="false" showLogo="false" showMap="false" showScale="true" showSimTmLabel="false" simTmLabelColor="ff000000" simTmLabelFontSize="20" simTmLabelOffset="15 30" simTmLabelPos="BOTTOMLEFT" wireframeMode="false">
+					<compassOffsetInternal x="0" y="0"/>
+					<legendOffsetInternal x="10" y="10"/>
+					<logoOffsetInternal x="20" y="20"/>
+					<simTmLabelOffsetInternal x="15" y="30"/>
+				</baseGPars>
+				<conflictAreaGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<dataCollectionPointGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff7f593f" objectVisibility="true" useLabelColorScheme="false"/>
+				<desiredSpeedDecisionGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffff00" objectVisibility="true" useLabelColorScheme="false"/>
+				<detectorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="PORTNO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<elevatorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclElevColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<fireEventGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" quanColor="ff000000" quanID="" quanScale="1" useLabelColorScheme="false"/>
+				<flowBundleGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" showFlowBunBars="true" useLabelColorScheme="false">
+					<flowBunBarGPar autoScaleAct="true" color="ff000000" latOffset="0" scaleMax="20000" scaleMin="0" scaleWidMax="0.004"/>
+				</flowBundleGPars>
+				<gPars3D buildingColor="ffe0e0e0" fogExpDensity="2" fogLinEnd="28000" fogLinStart="5000" fogMode="OFF" landColor="ffc0c0c0" landTexture="" landTextureHorizontalLength="1" shadColor="50000000" showBuildings="false" showLand="true" showMap="false" showShad="false" skyColor="ff00aafa" skyTexture="#3dmodels#Textures\Sky_bright01.bmp" undergroundColor="ff291e19" undergroundTexture=""/>
+				<informationSign3DGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<linkGPars borderColor="ff606060" borderLineStyle="NOLINE" colorSchemeDisplayBase="LANEBASED" connectorBorderColor="ff606060" connectorBorderLineStyle="NOLINE" connectorFillColor="ff808080" connectorFillStyle="SOLIDFILL" connectorRvsWireframeColor="ffffd800" connectorWireframeColor="ffc000c0" drawingMode="CONSTCOLORS" fillColor="83808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" laneMarkingColor="fff0f0f0" laneMarkingDrawingMode="USELANEMARKINGTYPE" laneMarkingWidth="0.12" legdInclLabColor="false" legdInclLinkBarColor="false" legdInclLinkColor="false" linkBarDrawingMode="NOLINKBARS" linkWireFrameColor="ff000080" objectVisibility="true" ovtLnDrawingMode="LINKSANDOVERTAKINGLANES" useLabelColorScheme="false"/>
+				<nodeGPars borderColor="ff000000" borderLineStyle="SOLIDLINE" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclNodeColor="false" legdInclTurnValColor="false" objectVisibility="true" qLenAttr="" qLenColor="96000000" segmentBorderColor="ff404040" segmentBorderLineStyle="SOLIDLINE" segmentFillColor="99000080" segmentFillStyle="NOFILL" showQLen="false" showQLenLabel="true" showTurnValVisual="false" useLabelColorScheme="false"/>
+				<ptLineGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" endLineColor="ff00c0c0" fillStyle="SOLIDFILL" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" ptLineFillColor="99ff8000" startLineColor="ff0000ff" useLabelColorScheme="false"/>
+				<ptStopGPars borderColor="ff800000" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<parkingLotGPars borderColor="ff0000ff" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="PARKINGLOTBASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclParkLotColor="false" objectVisibility="true" showColorSchemeLabel="false" useLabelColorScheme="false"/>
+				<pavementMarkingGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffffff" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAreaGPars borderColor="ff000000" borderLineStyle="NOLINE" colorSchemeDisplayBase="AREABASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclAreaColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAttrDecGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedInputGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff000000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedObstacleGPars borderColor="ff800000" borderLineStyle="NOLINE" drawingMode="DISPLAYTYPE" fillColor="ff800000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclObstColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRampGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="AREABASED" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclRampColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRoutingDecisionGPars endPointBorderColor="ff000080" endPointBorderLineStyle="NOLINE" endPointFillColor="ff00c0c0" endPointFillStyle="SOLIDFILL" intermediatePointsBorderColor="ff000080" intermediatePointsBorderLineStyle="SOLIDLINE" intermediatePointsFillColor="ff0066cc" intermediatePointsFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" partialRouteColor="ffffff00" startPointBorderColor="ff000080" startPointBorderLineStyle="NOLINE" startPointFillColor="ffc04000" startPointFillStyle="SOLIDFILL" staticRouteColor="ffffff00" useLabelColorScheme="false"/>
+				<pedTravelTimeMeasurementGPars endPointBorderColor="ff404040" endPointBorderLineStyle="SOLIDLINE" endPointFillColor="ffc0ffc0" endPointFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startPointBorderColor="ff404040" startPointBorderLineStyle="SOLIDLINE" startPointFillColor="ffffc0c0" startPointFillStyle="SOLIDFILL" useLabelColorScheme="false"/>
+				<pedestrianGPars colorSchemeConfig="" drawingMode="COLORDISTRIBUTION" legdInclPedColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED"/>
+				<priorityRulesGPars clearColor="ff008000" clearVisib="true" endLineColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffc04000" useLabelColorScheme="false"/>
+				<queueCounterGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffdba4ff" objectVisibility="true" qLenAttr="" qLenColor="96dba4ff" showQLen="false" showQLenLabel="true" useLabelColorScheme="false"/>
+				<reducedSpeedAreaGPars borderColor="ffffff00" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<sectionGPars borderColor="ff0000c0" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff008000" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclSectColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<signalHeadGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" trafficSignalDisplay="BLOCKS" useLabelColorScheme="false"/>
+				<static3DModelGPars borderColor="a0ffffff" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<stopSignGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffff8000" objectVisibility="true" useLabelColorScheme="false"/>
+				<trafficSignal3DGPars color2D="ff000080" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" mastColor2D="ff008000" objectVisibility="true" signalArmColor2D="ff800000" signalHeadColor2D="ff000080" streetlightColor2D="ff808000" useLabelColorScheme="false"/>
+				<vehAttrDecGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleGPars drawingMode="COLORDISTRIBUTION" labelAttribute="NO" labelAutoRot="true" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclVehColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED" useLabelColorScheme="false"/>
+				<vehicleInputGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff000000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleRoutingDecisionGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" closureRouteColor="99f00000" endLineColor="ff00c0c0" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" managedLaneGeneralRouteColor="9900a000" managedLaneManagedRouteColor="99a00000" objectVisibility="true" parkingLotRouteColor="990000a0" partialPTRouteColor="99f0f000" partialRouteColor="99f0f000" startLineColor="ffc000c0" staticRouteColor="99f0f000" useLabelColorScheme="false"/>
+				<vehicleTravelTimeMeasurementsGPars endLineColor="ffc0ffc0" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffffc0c0" useLabelColorScheme="false"/>
+			</gParSet>
+		</networkEditorLayout>
+		<networkEditorLayout name="Vehicle State Colors" no="5" synchronization="NONE">
+			<camera coord2DX="264.660503" coord2DY="20.796953" coord3DX="0" coord3DY="0" coord3DZ="125.7107" foV="45" pitchAngle="1.5707963267948966" rollAngle="0" yawAngle="1.5707963267948966" zoom2D="0.246727"/>
+			<gParSet>
+				<backgroundGPars borderColor="ff000000" borderLineStyle="NOLINE" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<baseGPars autoLvlTransp="true" backgroundColor="ffc0c0c0" compassPos="BOTTOMRIGHT" legdOffset="10 10" legdPos="BOTTOMRIGHT" legdScale="1" logoFilename="" logoOffset="20 20" logoPos="TOPLEFT" mapGrayScale="false" mapIntensity="100" mapProviderName="" mapType="BINGMAPS" mode3D="false" rubberbandColor="fff0f000" selectionColor="fff0f000" showCompass="false" showGrid="false" showLegd="false" showLogo="false" showMap="false" showScale="true" showSimTmLabel="false" simTmLabelColor="ff000000" simTmLabelFontSize="20" simTmLabelOffset="15 30" simTmLabelPos="BOTTOMLEFT" wireframeMode="false">
+					<compassOffsetInternal x="0" y="0"/>
+					<legendOffsetInternal x="10" y="10"/>
+					<logoOffsetInternal x="20" y="20"/>
+					<simTmLabelOffsetInternal x="15" y="30"/>
+				</baseGPars>
+				<conflictAreaGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<dataCollectionPointGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff7f593f" objectVisibility="true" useLabelColorScheme="false"/>
+				<desiredSpeedDecisionGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffff00" objectVisibility="true" useLabelColorScheme="false"/>
+				<detectorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="PORTNO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<elevatorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclElevColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<fireEventGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" quanColor="ff000000" quanID="" quanScale="1" useLabelColorScheme="false"/>
+				<flowBundleGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" showFlowBunBars="true" useLabelColorScheme="false">
+					<flowBunBarGPar autoScaleAct="true" color="ff000000" latOffset="0" scaleMax="20000" scaleMin="0" scaleWidMax="0.004"/>
+				</flowBundleGPars>
+				<gPars3D buildingColor="ffe0e0e0" fogExpDensity="2" fogLinEnd="28000" fogLinStart="5000" fogMode="OFF" landColor="ffc0c0c0" landTexture="" landTextureHorizontalLength="1" shadColor="50000000" showBuildings="false" showLand="true" showMap="false" showShad="false" skyColor="ff00aafa" skyTexture="#3dmodels#Textures\Sky_bright01.bmp" undergroundColor="ff291e19" undergroundTexture=""/>
+				<informationSign3DGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<linkGPars borderColor="ff606060" borderLineStyle="NOLINE" colorSchemeDisplayBase="LANEBASED" connectorBorderColor="ff606060" connectorBorderLineStyle="NOLINE" connectorFillColor="ff808080" connectorFillStyle="SOLIDFILL" connectorRvsWireframeColor="ffffd800" connectorWireframeColor="ffc000c0" drawingMode="CONSTCOLORS" fillColor="83808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" laneMarkingColor="fff0f0f0" laneMarkingDrawingMode="USELANEMARKINGTYPE" laneMarkingWidth="0.12" legdInclLabColor="false" legdInclLinkBarColor="false" legdInclLinkColor="false" linkBarDrawingMode="NOLINKBARS" linkWireFrameColor="ff000080" objectVisibility="true" ovtLnDrawingMode="LINKSANDOVERTAKINGLANES" useLabelColorScheme="false"/>
+				<nodeGPars borderColor="ff000000" borderLineStyle="SOLIDLINE" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclNodeColor="false" legdInclTurnValColor="false" objectVisibility="true" qLenAttr="" qLenColor="96000000" segmentBorderColor="ff404040" segmentBorderLineStyle="SOLIDLINE" segmentFillColor="99000080" segmentFillStyle="NOFILL" showQLen="false" showQLenLabel="true" showTurnValVisual="false" useLabelColorScheme="false"/>
+				<ptLineGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" endLineColor="ff00c0c0" fillStyle="SOLIDFILL" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" ptLineFillColor="99ff8000" startLineColor="ff0000ff" useLabelColorScheme="false"/>
+				<ptStopGPars borderColor="ff800000" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<parkingLotGPars borderColor="ff0000ff" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="PARKINGLOTBASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclParkLotColor="false" objectVisibility="true" showColorSchemeLabel="false" useLabelColorScheme="false"/>
+				<pavementMarkingGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffffff" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAreaGPars borderColor="ff000000" borderLineStyle="NOLINE" colorSchemeDisplayBase="AREABASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclAreaColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAttrDecGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedInputGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff000000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedObstacleGPars borderColor="ff800000" borderLineStyle="NOLINE" drawingMode="DISPLAYTYPE" fillColor="ff800000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclObstColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRampGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="AREABASED" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclRampColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRoutingDecisionGPars endPointBorderColor="ff000080" endPointBorderLineStyle="NOLINE" endPointFillColor="ff00c0c0" endPointFillStyle="SOLIDFILL" intermediatePointsBorderColor="ff000080" intermediatePointsBorderLineStyle="SOLIDLINE" intermediatePointsFillColor="ff0066cc" intermediatePointsFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" partialRouteColor="ffffff00" startPointBorderColor="ff000080" startPointBorderLineStyle="NOLINE" startPointFillColor="ffc04000" startPointFillStyle="SOLIDFILL" staticRouteColor="ffffff00" useLabelColorScheme="false"/>
+				<pedTravelTimeMeasurementGPars endPointBorderColor="ff404040" endPointBorderLineStyle="SOLIDLINE" endPointFillColor="ffc0ffc0" endPointFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startPointBorderColor="ff404040" startPointBorderLineStyle="SOLIDLINE" startPointFillColor="ffffc0c0" startPointFillStyle="SOLIDFILL" useLabelColorScheme="false"/>
+				<pedestrianGPars colorSchemeConfig="" drawingMode="COLORDISTRIBUTION" legdInclPedColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED"/>
+				<priorityRulesGPars clearColor="ff008000" clearVisib="true" endLineColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffc04000" useLabelColorScheme="false"/>
+				<queueCounterGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffdba4ff" objectVisibility="true" qLenAttr="" qLenColor="96dba4ff" showQLen="false" showQLenLabel="true" useLabelColorScheme="false"/>
+				<reducedSpeedAreaGPars borderColor="ffffff00" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<sectionGPars borderColor="ff0000c0" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff008000" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclSectColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<signalHeadGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" trafficSignalDisplay="BLOCKS" useLabelColorScheme="false"/>
+				<static3DModelGPars borderColor="a0ffffff" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<stopSignGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffff8000" objectVisibility="true" useLabelColorScheme="false"/>
+				<trafficSignal3DGPars color2D="ff000080" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" mastColor2D="ff008000" objectVisibility="true" signalArmColor2D="ff800000" signalHeadColor2D="ff000080" streetlightColor2D="ff808000" useLabelColorScheme="false"/>
+				<vehAttrDecGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleGPars drawingMode="DRIVINGSTATE" labelAttribute="NO" labelAutoRot="true" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclVehColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED" useLabelColorScheme="false"/>
+				<vehicleInputGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff000000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleRoutingDecisionGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" closureRouteColor="99f00000" endLineColor="ff00c0c0" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" managedLaneGeneralRouteColor="9900a000" managedLaneManagedRouteColor="99a00000" objectVisibility="true" parkingLotRouteColor="990000a0" partialPTRouteColor="99f0f000" partialRouteColor="99f0f000" startLineColor="ffc000c0" staticRouteColor="99f0f000" useLabelColorScheme="false"/>
+				<vehicleTravelTimeMeasurementsGPars endLineColor="ffc0ffc0" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffffc0c0" useLabelColorScheme="false"/>
+			</gParSet>
+		</networkEditorLayout>
+		<networkEditorLayout name="Vehicle Speed Colors" no="6" synchronization="NONE">
+			<camera coord2DX="264.660503" coord2DY="20.796953" coord3DX="0" coord3DY="0" coord3DZ="125.7107" foV="45" pitchAngle="1.5707963267948966" rollAngle="0" yawAngle="1.5707963267948966" zoom2D="0.246727"/>
+			<gParSet>
+				<backgroundGPars borderColor="ff000000" borderLineStyle="NOLINE" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<baseGPars autoLvlTransp="true" backgroundColor="ffc0c0c0" compassPos="BOTTOMRIGHT" legdOffset="10 10" legdPos="BOTTOMRIGHT" legdScale="1" logoFilename="" logoOffset="20 20" logoPos="TOPLEFT" mapGrayScale="false" mapIntensity="100" mapProviderName="" mapType="BINGMAPS" mode3D="false" rubberbandColor="fff0f000" selectionColor="fff0f000" showCompass="false" showGrid="false" showLegd="false" showLogo="false" showMap="false" showScale="true" showSimTmLabel="false" simTmLabelColor="ff000000" simTmLabelFontSize="20" simTmLabelOffset="15 30" simTmLabelPos="BOTTOMLEFT" wireframeMode="false">
+					<compassOffsetInternal x="0" y="0"/>
+					<legendOffsetInternal x="10" y="10"/>
+					<logoOffsetInternal x="20" y="20"/>
+					<simTmLabelOffsetInternal x="15" y="30"/>
+				</baseGPars>
+				<conflictAreaGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<dataCollectionPointGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff7f593f" objectVisibility="true" useLabelColorScheme="false"/>
+				<desiredSpeedDecisionGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffff00" objectVisibility="true" useLabelColorScheme="false"/>
+				<detectorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="PORTNO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<elevatorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclElevColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<fireEventGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" quanColor="ff000000" quanID="" quanScale="1" useLabelColorScheme="false"/>
+				<flowBundleGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" showFlowBunBars="true" useLabelColorScheme="false">
+					<flowBunBarGPar autoScaleAct="true" color="ff000000" latOffset="0" scaleMax="20000" scaleMin="0" scaleWidMax="0.004"/>
+				</flowBundleGPars>
+				<gPars3D buildingColor="ffe0e0e0" fogExpDensity="2" fogLinEnd="28000" fogLinStart="5000" fogMode="OFF" landColor="ffc0c0c0" landTexture="" landTextureHorizontalLength="1" shadColor="50000000" showBuildings="false" showLand="true" showMap="false" showShad="false" skyColor="ff00aafa" skyTexture="#3dmodels#Textures\Sky_bright01.bmp" undergroundColor="ff291e19" undergroundTexture=""/>
+				<informationSign3DGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<linkGPars borderColor="ff606060" borderLineStyle="NOLINE" colorSchemeDisplayBase="LANEBASED" connectorBorderColor="ff606060" connectorBorderLineStyle="NOLINE" connectorFillColor="ff808080" connectorFillStyle="SOLIDFILL" connectorRvsWireframeColor="ffffd800" connectorWireframeColor="ffc000c0" drawingMode="CONSTCOLORS" fillColor="83808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" laneMarkingColor="fff0f0f0" laneMarkingDrawingMode="USELANEMARKINGTYPE" laneMarkingWidth="0.12" legdInclLabColor="false" legdInclLinkBarColor="false" legdInclLinkColor="false" linkBarDrawingMode="NOLINKBARS" linkWireFrameColor="ff000080" objectVisibility="true" ovtLnDrawingMode="LINKSANDOVERTAKINGLANES" useLabelColorScheme="false"/>
+				<nodeGPars borderColor="ff000000" borderLineStyle="SOLIDLINE" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclNodeColor="false" legdInclTurnValColor="false" objectVisibility="true" qLenAttr="" qLenColor="96000000" segmentBorderColor="ff404040" segmentBorderLineStyle="SOLIDLINE" segmentFillColor="99000080" segmentFillStyle="NOFILL" showQLen="false" showQLenLabel="true" showTurnValVisual="false" useLabelColorScheme="false"/>
+				<ptLineGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" endLineColor="ff00c0c0" fillStyle="SOLIDFILL" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" ptLineFillColor="99ff8000" startLineColor="ff0000ff" useLabelColorScheme="false"/>
+				<ptStopGPars borderColor="ff800000" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<parkingLotGPars borderColor="ff0000ff" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="PARKINGLOTBASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclParkLotColor="false" objectVisibility="true" showColorSchemeLabel="false" useLabelColorScheme="false"/>
+				<pavementMarkingGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffffff" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAreaGPars borderColor="ff000000" borderLineStyle="NOLINE" colorSchemeDisplayBase="AREABASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclAreaColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAttrDecGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedInputGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff000000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedObstacleGPars borderColor="ff800000" borderLineStyle="NOLINE" drawingMode="DISPLAYTYPE" fillColor="ff800000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclObstColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRampGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="AREABASED" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclRampColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRoutingDecisionGPars endPointBorderColor="ff000080" endPointBorderLineStyle="NOLINE" endPointFillColor="ff00c0c0" endPointFillStyle="SOLIDFILL" intermediatePointsBorderColor="ff000080" intermediatePointsBorderLineStyle="SOLIDLINE" intermediatePointsFillColor="ff0066cc" intermediatePointsFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" partialRouteColor="ffffff00" startPointBorderColor="ff000080" startPointBorderLineStyle="NOLINE" startPointFillColor="ffc04000" startPointFillStyle="SOLIDFILL" staticRouteColor="ffffff00" useLabelColorScheme="false"/>
+				<pedTravelTimeMeasurementGPars endPointBorderColor="ff404040" endPointBorderLineStyle="SOLIDLINE" endPointFillColor="ffc0ffc0" endPointFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startPointBorderColor="ff404040" startPointBorderLineStyle="SOLIDLINE" startPointFillColor="ffffc0c0" startPointFillStyle="SOLIDFILL" useLabelColorScheme="false"/>
+				<pedestrianGPars colorSchemeConfig="" drawingMode="COLORDISTRIBUTION" legdInclPedColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED"/>
+				<priorityRulesGPars clearColor="ff008000" clearVisib="true" endLineColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffc04000" useLabelColorScheme="false"/>
+				<queueCounterGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffdba4ff" objectVisibility="true" qLenAttr="" qLenColor="96dba4ff" showQLen="false" showQLenLabel="true" useLabelColorScheme="false"/>
+				<reducedSpeedAreaGPars borderColor="ffffff00" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<sectionGPars borderColor="ff0000c0" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff008000" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclSectColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<signalHeadGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" trafficSignalDisplay="BLOCKS" useLabelColorScheme="false"/>
+				<static3DModelGPars borderColor="a0ffffff" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<stopSignGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffff8000" objectVisibility="true" useLabelColorScheme="false"/>
+				<trafficSignal3DGPars color2D="ff000080" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" mastColor2D="ff008000" objectVisibility="true" signalArmColor2D="ff800000" signalHeadColor2D="ff000080" streetlightColor2D="ff808000" useLabelColorScheme="false"/>
+				<vehAttrDecGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleGPars drawingMode="COLORSCHEME" labelAttribute="NO" labelAutoRot="true" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclVehColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED" useLabelColorScheme="false">
+					<colorScheme classificID="SPEED" undefValueColor="ff000000">
+						<colorSchemeElements>
+							<colorSchemeElement color="ffff80ff" name="" upperBound="3.4398"/>
+							<colorSchemeElement color="ffff0000" name="" upperBound="6.8796"/>
+							<colorSchemeElement color="ffff8000" name="" upperBound="10.3194"/>
+							<colorSchemeElement color="ffffc600" name="" upperBound="13.7592"/>
+							<colorSchemeElement color="ffffff00" name="" upperBound="17.199"/>
+							<colorSchemeElement color="ffc6ff00" name="" upperBound="20.6388"/>
+							<colorSchemeElement color="ff80ff00" name="" upperBound="27.5184"/>
+							<colorSchemeElement color="ff00ff00" name="" upperBound="34.398"/>
+							<colorSchemeElement color="ff00bb00" name="" upperBound="41.2776"/>
+							<colorSchemeElement color="ff008000" name="" upperBound="68.796"/>
+							<colorSchemeElement color="00000000" name="" upperBound="INF"/>
+						</colorSchemeElements>
+					</colorScheme>
+				</vehicleGPars>
+				<vehicleInputGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff000000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleRoutingDecisionGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" closureRouteColor="99f00000" endLineColor="ff00c0c0" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" managedLaneGeneralRouteColor="9900a000" managedLaneManagedRouteColor="99a00000" objectVisibility="true" parkingLotRouteColor="990000a0" partialPTRouteColor="99f0f000" partialRouteColor="99f0f000" startLineColor="ffc000c0" staticRouteColor="99f0f000" useLabelColorScheme="false"/>
+				<vehicleTravelTimeMeasurementsGPars endLineColor="ffc0ffc0" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffffc0c0" useLabelColorScheme="false"/>
+			</gParSet>
+		</networkEditorLayout>
+		<networkEditorLayout name="" no="7" synchronization="NONE">
+			<camera coord2DX="0" coord2DY="0" coord3DX="0" coord3DY="0" coord3DZ="1000" foV="45" pitchAngle="1.5707963267948966" rollAngle="0" yawAngle="1.5707963267948966" zoom2D="nan(ind)"/>
+			<gParSet>
+				<backgroundGPars borderColor="ff000000" borderLineStyle="NOLINE" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<baseGPars autoLvlTransp="true" backgroundColor="ffc0c0c0" compassPos="BOTTOMRIGHT" legdOffset="10 10" legdPos="BOTTOMRIGHT" legdScale="1" logoFilename="" logoOffset="20 20" logoPos="TOPLEFT" mapGrayScale="false" mapIntensity="100" mapProviderName="" mapType="DEFAULTMAPPROVIDER" mode3D="false" rubberbandColor="fff0f000" selectionColor="fff0f000" showCompass="false" showGrid="false" showLegd="false" showLogo="false" showMap="false" showScale="true" showSimTmLabel="false" simTmLabelColor="ff000000" simTmLabelFontSize="20" simTmLabelOffset="15 30" simTmLabelPos="BOTTOMLEFT" wireframeMode="false">
+					<compassOffsetInternal x="0" y="0"/>
+					<legendOffsetInternal x="10" y="10"/>
+					<logoOffsetInternal x="20" y="20"/>
+					<simTmLabelOffsetInternal x="15" y="30"/>
+				</baseGPars>
+				<conflictAreaGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<dataCollectionPointGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff7f593f" objectVisibility="true" useLabelColorScheme="false"/>
+				<desiredSpeedDecisionGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<detectorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="PORTNO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<elevatorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclElevColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<fireEventGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" quanColor="ff000000" quanID="" quanScale="1" useLabelColorScheme="false"/>
+				<flowBundleGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" showFlowBunBars="true" useLabelColorScheme="false">
+					<flowBunBarGPar autoScaleAct="true" color="ff000000" latOffset="0" scaleMax="20000" scaleMin="0" scaleWidMax="0.004"/>
+				</flowBundleGPars>
+				<gPars3D buildingColor="ffe0e0e0" fogExpDensity="2" fogLinEnd="28000" fogLinStart="5000" fogMode="OFF" landColor="ffc0c0c0" landTexture="" landTextureHorizontalLength="1" shadColor="50000000" showBuildings="false" showLand="true" showMap="false" showShad="false" skyColor="ff00aafa" skyTexture="" undergroundColor="ff291e19" undergroundTexture=""/>
+				<informationSign3DGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<linkGPars borderColor="ff606060" borderLineStyle="NOLINE" colorSchemeDisplayBase="LANEBASED" connectorBorderColor="ff606060" connectorBorderLineStyle="NOLINE" connectorFillColor="ff808080" connectorFillStyle="SOLIDFILL" connectorRvsWireframeColor="ffffd800" connectorWireframeColor="ff800080" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" laneMarkingColor="fff0f0f0" laneMarkingDrawingMode="USELANEMARKINGTYPE" laneMarkingWidth="0.12" legdInclLabColor="false" legdInclLinkBarColor="false" legdInclLinkColor="false" linkBarDrawingMode="NOLINKBARS" linkWireFrameColor="ff000080" objectVisibility="true" ovtLnDrawingMode="LINKSANDOVERTAKINGLANES" useLabelColorScheme="false"/>
+				<nodeGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclNodeColor="false" legdInclTurnValColor="false" objectVisibility="true" qLenAttr="" qLenColor="96000000" segmentBorderColor="ff000080" segmentBorderLineStyle="SOLIDLINE" segmentFillColor="99000080" segmentFillStyle="NOFILL" showQLen="false" showQLenLabel="true" showTurnValVisual="false" useLabelColorScheme="false"/>
+				<ptLineGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" endLineColor="ff008000" fillStyle="SOLIDFILL" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" ptLineFillColor="99808000" startLineColor="ff800000" useLabelColorScheme="false"/>
+				<ptStopGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<parkingLotGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="PARKINGLOTBASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclParkLotColor="false" objectVisibility="true" showColorSchemeLabel="false" useLabelColorScheme="false"/>
+				<pavementMarkingGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffffff" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAreaGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="AREABASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclAreaColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAttrDecGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedInputGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedObstacleGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclObstColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRampGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="AREABASED" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclRampColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRoutingDecisionGPars endPointBorderColor="ff000080" endPointBorderLineStyle="SOLIDLINE" endPointFillColor="ff808080" endPointFillStyle="SOLIDFILL" intermediatePointsBorderColor="ff000080" intermediatePointsBorderLineStyle="SOLIDLINE" intermediatePointsFillColor="ff0066cc" intermediatePointsFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" partialRouteColor="fff000f0" startPointBorderColor="ff000080" startPointBorderLineStyle="SOLIDLINE" startPointFillColor="ff808080" startPointFillStyle="SOLIDFILL" staticRouteColor="fff0f000" useLabelColorScheme="false"/>
+				<pedTravelTimeMeasurementGPars endPointBorderColor="ff000080" endPointBorderLineStyle="SOLIDLINE" endPointFillColor="ff808080" endPointFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startPointBorderColor="ff000080" startPointBorderLineStyle="SOLIDLINE" startPointFillColor="ff808080" startPointFillStyle="SOLIDFILL" useLabelColorScheme="false"/>
+				<pedestrianGPars colorSchemeConfig="" drawingMode="COLORDISTRIBUTION" legdInclPedColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED"/>
+				<priorityRulesGPars clearColor="ff008000" clearVisib="true" endLineColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ff800000" useLabelColorScheme="false"/>
+				<queueCounterGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" qLenAttr="" qLenColor="96dba4ff" showQLen="false" showQLenLabel="true" useLabelColorScheme="false"/>
+				<reducedSpeedAreaGPars borderColor="a0008000" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<sectionGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclSectColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<signalHeadGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" trafficSignalDisplay="BLOCKS" useLabelColorScheme="false"/>
+				<static3DModelGPars borderColor="a0ffffff" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<stopSignGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<trafficSignal3DGPars color2D="ff000080" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" mastColor2D="ff008000" objectVisibility="true" signalArmColor2D="ff800000" signalHeadColor2D="ff000080" streetlightColor2D="ff808000" useLabelColorScheme="false"/>
+				<vehAttrDecGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleGPars drawingMode="COLORDISTRIBUTION" labelAttribute="NO" labelAutoRot="true" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclVehColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED" useLabelColorScheme="false"/>
+				<vehicleInputGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleRoutingDecisionGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" closureRouteColor="99f00000" endLineColor="ff008000" inactiveStopColor="ff800000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" managedLaneGeneralRouteColor="9900a000" managedLaneManagedRouteColor="99a00000" objectVisibility="true" parkingLotRouteColor="990000a0" partialPTRouteColor="99f0f000" partialRouteColor="99f0f000" startLineColor="ff800000" staticRouteColor="99f0f000" useLabelColorScheme="false"/>
+				<vehicleTravelTimeMeasurementsGPars endLineColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ff800000" useLabelColorScheme="false"/>
+			</gParSet>
+		</networkEditorLayout>
+		<networkEditorLayout name="" no="8" synchronization="NONE">
+			<camera coord2DX="186.69785658333331" coord2DY="28.114470999999998" coord3DX="270" coord3DY="30" coord3DZ="15" foV="45" pitchAngle="0.17453280924835057" rollAngle="0" yawAngle="0.78539816339742763" zoom2D="0.60236000000000012"/>
+			<gParSet>
+				<backgroundGPars borderColor="ff000000" borderLineStyle="NOLINE" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<baseGPars autoLvlTransp="true" backgroundColor="ffc0c0c0" compassPos="BOTTOMRIGHT" legdOffset="10 10" legdPos="BOTTOMRIGHT" legdScale="1" logoFilename="" logoOffset="20 20" logoPos="TOPLEFT" mapGrayScale="false" mapIntensity="100" mapProviderName="" mapType="BINGMAPS" mode3D="false" rubberbandColor="fff0f000" selectionColor="fff0f000" showCompass="false" showGrid="false" showLegd="false" showLogo="false" showMap="false" showScale="true" showSimTmLabel="false" simTmLabelColor="ff000000" simTmLabelFontSize="20" simTmLabelOffset="15 30" simTmLabelPos="BOTTOMLEFT" wireframeMode="false">
+					<compassOffsetInternal x="0" y="0"/>
+					<legendOffsetInternal x="10" y="10"/>
+					<logoOffsetInternal x="20" y="20"/>
+					<simTmLabelOffsetInternal x="15" y="30"/>
+				</baseGPars>
+				<conflictAreaGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<dataCollectionPointGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff7f593f" objectVisibility="true" useLabelColorScheme="false"/>
+				<desiredSpeedDecisionGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffff00" objectVisibility="true" useLabelColorScheme="false"/>
+				<detectorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="PORTNO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<elevatorGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclElevColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<fireEventGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" quanColor="ff000000" quanID="" quanScale="1" useLabelColorScheme="false"/>
+				<flowBundleGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" showFlowBunBars="true" useLabelColorScheme="false">
+					<flowBunBarGPar autoScaleAct="true" color="ff000000" latOffset="0" scaleMax="20000" scaleMin="0" scaleWidMax="0.004"/>
+				</flowBundleGPars>
+				<gPars3D buildingColor="ffe0e0e0" fogExpDensity="2" fogLinEnd="28000" fogLinStart="5000" fogMode="OFF" landColor="ffc0c0c0" landTexture="" landTextureHorizontalLength="1" shadColor="50000000" showBuildings="false" showLand="true" showMap="false" showShad="false" skyColor="ff00aafa" skyTexture="#3dmodels#Textures\Sky_bright01.bmp" undergroundColor="ff291e19" undergroundTexture=""/>
+				<informationSign3DGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<linkGPars borderColor="ff606060" borderLineStyle="NOLINE" colorSchemeDisplayBase="LANEBASED" connectorBorderColor="ff606060" connectorBorderLineStyle="NOLINE" connectorFillColor="ff808080" connectorFillStyle="SOLIDFILL" connectorRvsWireframeColor="ffffd800" connectorWireframeColor="ffc000c0" drawingMode="DISPLAYTYPE" fillColor="83808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" laneMarkingColor="fff0f0f0" laneMarkingDrawingMode="USELANEMARKINGTYPE" laneMarkingWidth="0.12" legdInclLabColor="false" legdInclLinkBarColor="false" legdInclLinkColor="false" linkBarDrawingMode="NOLINKBARS" linkWireFrameColor="ff000080" objectVisibility="true" ovtLnDrawingMode="LINKSANDOVERTAKINGLANES" useLabelColorScheme="false"/>
+				<nodeGPars borderColor="ff000000" borderLineStyle="SOLIDLINE" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclNodeColor="false" legdInclTurnValColor="false" objectVisibility="true" qLenAttr="" qLenColor="96000000" segmentBorderColor="ff404040" segmentBorderLineStyle="SOLIDLINE" segmentFillColor="99000080" segmentFillStyle="NOFILL" showQLen="false" showQLenLabel="true" showTurnValVisual="false" useLabelColorScheme="false"/>
+				<ptLineGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" endLineColor="ff00c0c0" fillStyle="SOLIDFILL" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" ptLineFillColor="99ff8000" startLineColor="ff0000ff" useLabelColorScheme="false"/>
+				<ptStopGPars borderColor="ff800000" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<parkingLotGPars borderColor="ff0000ff" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="PARKINGLOTBASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclParkLotColor="false" objectVisibility="true" showColorSchemeLabel="false" useLabelColorScheme="false"/>
+				<pavementMarkingGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffffffff" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAreaGPars borderColor="ff000000" borderLineStyle="NOLINE" colorSchemeDisplayBase="AREABASED" drawingMode="CONSTCOLORS" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclAreaColor="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedAttrDecGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedInputGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" fillColor="ff000000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedObstacleGPars borderColor="ff800000" borderLineStyle="NOLINE" drawingMode="DISPLAYTYPE" fillColor="ff800000" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclObstColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRampGPars borderColor="ff000080" borderLineStyle="SOLIDLINE" colorSchemeDisplayBase="AREABASED" drawingMode="DISPLAYTYPE" fillColor="ff808080" fillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclRampColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<pedRoutingDecisionGPars endPointBorderColor="ff000080" endPointBorderLineStyle="NOLINE" endPointFillColor="ff00c0c0" endPointFillStyle="SOLIDFILL" intermediatePointsBorderColor="ff000080" intermediatePointsBorderLineStyle="SOLIDLINE" intermediatePointsFillColor="ff0066cc" intermediatePointsFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" partialRouteColor="ffffff00" startPointBorderColor="ff000080" startPointBorderLineStyle="NOLINE" startPointFillColor="ffc04000" startPointFillStyle="SOLIDFILL" staticRouteColor="ffffff00" useLabelColorScheme="false"/>
+				<pedTravelTimeMeasurementGPars endPointBorderColor="ff404040" endPointBorderLineStyle="SOLIDLINE" endPointFillColor="ffc0ffc0" endPointFillStyle="SOLIDFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startPointBorderColor="ff404040" startPointBorderLineStyle="SOLIDLINE" startPointFillColor="ffffc0c0" startPointFillStyle="SOLIDFILL" useLabelColorScheme="false"/>
+				<pedestrianGPars colorSchemeConfig="" drawingMode="COLORDISTRIBUTION" legdInclPedColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED"/>
+				<priorityRulesGPars clearColor="ff008000" clearVisib="true" endLineColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffc04000" useLabelColorScheme="false"/>
+				<queueCounterGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffdba4ff" objectVisibility="true" qLenAttr="" qLenColor="96dba4ff" showQLen="false" showQLenLabel="true" useLabelColorScheme="false"/>
+				<reducedSpeedAreaGPars borderColor="ffffff00" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="false" useLabelColorScheme="false"/>
+				<sectionGPars borderColor="ff0000c0" borderLineStyle="SOLIDLINE" drawingMode="DISPLAYTYPE" fillColor="ff008000" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" legdInclSectColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<signalHeadGPars labelAttribute="SG\NO" labelBackgrColor="00000000" labelColor="ff7f0000" labelDecimals="3" labelFontSize="3" labelVisibility="true" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" trafficSignalDisplay="BLOCKS" useLabelColorScheme="false"/>
+				<static3DModelGPars borderColor="a0ffffff" borderLineStyle="SOLIDLINE" fillColor="ff808080" fillStyle="NOFILL" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" useLabelColorScheme="false"/>
+				<stopSignGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ffff8000" objectVisibility="true" useLabelColorScheme="false"/>
+				<trafficSignal3DGPars color2D="ff000080" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" mastColor2D="ff008000" objectVisibility="true" signalArmColor2D="ff800000" signalHeadColor2D="ff000080" streetlightColor2D="ff808000" useLabelColorScheme="false"/>
+				<vehAttrDecGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff800000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleGPars drawingMode="COLORDISTRIBUTION" labelAttribute="NO" labelAutoRot="true" labelBackgrColor="00000000" labelColor="ffdbdbdb" labelDecimals="3" labelFontSize="3" labelVisibility="true" legdInclLabColor="false" legdInclVehColor="false" objectVisibility="true" selectionColor="ffff7fff" shape2D="ROUNDED" useLabelColorScheme="false"/>
+				<vehicleInputGPars labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" lineColor="ff000000" objectVisibility="true" useLabelColorScheme="false"/>
+				<vehicleRoutingDecisionGPars activeDirectionChangeStopColor="ffffc019" activeStopColor="ffff0000" closureRouteColor="99f00000" endLineColor="ff00c0c0" inactiveStopColor="ff008000" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" managedLaneGeneralRouteColor="9900a000" managedLaneManagedRouteColor="99a00000" objectVisibility="true" parkingLotRouteColor="990000a0" partialPTRouteColor="99f0f000" partialRouteColor="99f0f000" startLineColor="ffc000c0" staticRouteColor="99f0f000" useLabelColorScheme="false"/>
+				<vehicleTravelTimeMeasurementsGPars endLineColor="ffc0ffc0" labelAttribute="NO" labelBackgrColor="00000000" labelColor="ff000000" labelDecimals="3" labelFontSize="3" labelVisibility="false" legdInclLabColor="false" objectVisibility="true" startLineColor="ffffc0c0" useLabelColorScheme="false"/>
+			</gParSet>
+		</networkEditorLayout>
+	</networkEditorLayouts>
+	<quickViewLayout>
+		<netObjectLPars>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="CONFLICTAREA" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LINK1" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="VISIBLINK1" columnWidth="0" decimals="1" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LINK2" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="VISIBLINK2" columnWidth="0" decimals="1" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="STATUS" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="FRONTGAPDEF" columnWidth="0" decimals="1" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="REARGAPDEF" columnWidth="0" decimals="1" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="SAFDISTFACTDEF" columnWidth="0" decimals="1" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="ADDSTOPDIST" columnWidth="0" decimals="1" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="OBSADJLNS" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="ANTICIPROUT" columnWidth="0" decimals="1" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="AVOIDBLOCKMINOR" columnWidth="0" decimals="1" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="DATACOLLECTIONPOINT" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LANE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="POS" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="MODEL2D3D" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="PAVEMENTMARKING" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LANE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="POS" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="TYPE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="ARROWDIR" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="RNDDIR" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LENGTH" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="QUEUECOUNTER" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LINK" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="POS" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="REDUCEDSPEEDAREA" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LANE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="POS" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LENGTH" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="TIMEFROM" columnWidth="0" decimals="0" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="TIMETO" columnWidth="0" decimals="0" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESSPEEDDISTR(10)" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESSPEEDDISTR(20)" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESSPEEDDISTR(30)" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESSPEEDDISTR(40)" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESSPEEDDISTR(50)" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESSPEEDDISTR(60)" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DECEL(10)" columnWidth="0" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DECEL(20)" columnWidth="0" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DECEL(30)" columnWidth="0" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DECEL(40)" columnWidth="0" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DECEL(50)" columnWidth="0" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DECEL(60)" columnWidth="0" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="SCRIPT" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="85" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter>
+							<filterCriterionInt active="false" criterionType="EQUALS" filterValue="0" filterValueAdditional="0" filterValueTopBottom="1"/>
+						</filter>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter>
+							<filterCriterionString active="false" criterionType="EQUALS" filterValue=""/>
+						</filter>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="RUNTYPE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter>
+							<filterCriterionRelationEnum active="false" criterionType="EQUALS" filterValueMulti="" filterValueSingle="" filterValueString=""/>
+						</filter>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="FROMTIME" columnWidth="0" decimals="2" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter>
+							<filterCriterionPreciseDurationInSeconds active="false" criterionType="EQUALS" filterValue="0" filterValueAdditional="0" filterValueTopBottom="1"/>
+						</filter>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="TOTIME" columnWidth="0" decimals="2" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter>
+							<filterCriterionPreciseDurationInSeconds active="false" criterionType="EQUALS" filterValue="0" filterValueAdditional="0" filterValueTopBottom="1"/>
+						</filter>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="PERIOD" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter>
+							<filterCriterionInt active="false" criterionType="EQUALS" filterValue="0" filterValueAdditional="0" filterValueTopBottom="1"/>
+						</filter>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="SCOPE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter>
+							<filterCriterionRelationEnum active="false" criterionType="EQUALS" filterValueMulti="" filterValueSingle="" filterValueString=""/>
+						</filter>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="SCRIPTFILE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter>
+							<filterCriterionString active="false" criterionType="EQUALS" filterValue=""/>
+						</filter>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="FUNCNAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter>
+							<filterCriterionString active="false" criterionType="EQUALS" filterValue=""/>
+						</filter>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="SIGNALHEAD" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="184" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LANE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="POS" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="SG" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="TYPE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="TIMEINTERVAL" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="START" columnWidth="0" decimals="1" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="END" columnWidth="0" decimals="1" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="TRAFFICSIGNAL3D" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LEVEL" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="COORDX" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="COORDY" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="COORDZOFFSET" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="ROTATION" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="SCALE" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="MASTPOSRELX" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="MASTPOSRELY" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="MASTPOSRELZOFFSET" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="MASTHEIGHT" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="MASTDIAM" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="MASTVISIBLE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="MASTCOLOR" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="MASTSTYLE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="MASTSCALE" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="VEHICLE" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="VEHTYPE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LANE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="POS" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="SPEED" columnWidth="0" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESSPEED" columnWidth="0" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="ACCELERATION" columnWidth="0" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LNCHG" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESTLANE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="PTLINE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="PTDWELLTMCUR" columnWidth="0" decimals="2" format="SECONDS" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="VEHICLEINPUT" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LINK" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="VOLUME(1)" columnWidth="0" decimals="1" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="VEHCOMP(1)" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="VEHICLEROUTESTATIC" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="VEHROUTDEC" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESTLINK" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DESTPOS" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="RELFLOW(1)" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="VEHICLEROUTINGDECISIONSTATIC" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LINK" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="POS" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="ALLVEHTYPES" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="VEHCLASSES" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="VEHICLETRAVELTIMEMEASUREMENT" rowHeaderWidth="0" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="STARTLINK" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="STARTPOS" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="ENDLINK" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="ENDPOS" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DIST" columnWidth="0" decimals="2" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+			<netObjectListLayoutParameters autoSizeChildColumnWidthsToContent="true" filtered="false" headerHeight="0" netObjectTypeID="LINK" rowHeaderWidth="120" rowHeight="0" showSimulationRunAggregates="true" showTimeIntervalAggregates="false">
+				<attributeLPars>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NO" columnWidth="104" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NAME" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LINKBEHAVTYPE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="DISPLAYTYPE" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LEVEL" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="NUMLANES" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="LENGTH2D" columnWidth="0" decimals="3" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="ISCONN" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="FROMLINK" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+					<attributeListLayoutParameters alignment="LEFT" attributeID="TOLINK" columnWidth="0" decimals="0" format="DEFAULT" quickViewRowHeight="0" showUnits="false">
+						<filter/>
+					</attributeListLayoutParameters>
+				</attributeLPars>
+			</netObjectListLayoutParameters>
+		</netObjectLPars>
+	</quickViewLayout>
+	<workspaceLayout editColumnVisible="true" gParColumnVisible="true" globalSidebarComponentGraphicParameterFolded="false" globalSidebarComponentGraphicParameterHeight="0" globalSidebarComponentQuickViewFolded="false" globalSidebarComponentQuickViewHeight="0" globalSidebarWidth="0" labelColumnVisible="true" sidebarMode="2" statusBarMode="SIMULATIONSECOND"/>
+</layout>
